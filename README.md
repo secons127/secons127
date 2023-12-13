@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-### HI THERE!🐾
+<img src="https://capsule-render.vercel.app/api?type=waving&text=### HI THERE!🐾&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&text=### HI THERE!🐾&color=BDBDC8&height=150&section=footer" />
+
 
 
 
