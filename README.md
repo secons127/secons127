@@ -100,6 +100,8 @@ Dongyang Mirae University club of MIT (2023~ )
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 
+![secons Graph](https://github-readme-activity-graph.vercel.app/graph?username=secons127&custom_title=secons%20GitHub%20Activity%20Graph&bg_color=D3D3D3&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 <div align="center">
   <a href="https://github.com/secons127">
     <img src="https://i.pinimg.com/564x/f9/b3/56/f9b35602abfd15ee1ebd78bd6f6c762a.jpg" alt="Background Image" style="width: 1000px; height: 200px;">
