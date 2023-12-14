@@ -32,7 +32,7 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio#5C2D91-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=VisualStudioCode&logoColor=white" />
  	<img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=VisualStudioCode&logoColor=white" />
 	
 	<br>
