@@ -29,7 +29,6 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
--------------------------------------------------
 
 
 <div align=center>
@@ -41,6 +40,8 @@
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	<br>
 </div>
+
+  ---
 		<br>
 <div align=center>
 	<h3> 🍀USE&VISITOR🍀 </h3>
