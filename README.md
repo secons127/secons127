@@ -5,7 +5,7 @@
   </a>
 </div>
 
-### <h3>*☄SECONS'S GITHUB🎞*</h3> 
+<h2> *☄SECONS'S GITHUB🎞* </h2> 
 
  
 
