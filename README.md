@@ -11,9 +11,9 @@
 
  
 <div align=center>
-<h3> 🛹PROFILE📜 </h3>
-Deokwon girls high school of Liberal arts
-Dongyang Mirae University of Department of Artificial Intelligence Software <br/>
+<h3> 🛹PROFILE📜 </h3> <br>
+Deokwon girls high school of Liberal arts<br>
+Dongyang Mirae University of Department of Artificial Intelligence Software <br>
 Dongyang Mirae University club of MIT 
 <br><br> 
 
