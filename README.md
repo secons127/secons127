@@ -10,8 +10,7 @@
 *<h2>☄SECONS'S GITHUB🎞</h2>* 
 
 
- 
-<div align=center>
+ <div align=center>
 <h3> 🛹PROFILE📜 </h3>
 Deokwon girls high school of Liberal arts( 2020~2022 ) <br>
 Dongyang Mirae University of Department of Artificial Intelligence Software(2023~ ) <br>
