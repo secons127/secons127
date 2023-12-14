@@ -50,7 +50,7 @@
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=supjesscia20)](https://solved.ac/supjesscia20)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=supjessica20)](https://solved.ac/supjesscia20)
 </div>
 <br>
 
