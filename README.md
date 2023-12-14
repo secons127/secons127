@@ -45,12 +45,6 @@ Dongyang Mirae University club of MIT (2023~ )
 
 
 
-<div align="center">
-  <a href="https://github.com/secons127">
-    <img src="https://i.pinimg.com/564x/c6/f4/a5/c6f4a5779f08783edc4e7d4ce6338b5e.jpg" alt="Background Image" style="width: 1000px; height: 300px;">
-  </a>
-</div>
-
 
 <div align=center>
 <br>
@@ -63,10 +57,16 @@ Dongyang Mirae University club of MIT (2023~ )
 	<br>
 </div>
 
-  ----------------
+  
+<div align="center">
+  <a href="https://github.com/secons127">
+    <img src="https://i.pinimg.com/564x/c6/f4/a5/c6f4a5779f08783edc4e7d4ce6338b5e.jpg" alt="Background Image" style="width: 1000px; height: 280px;">
+  </a>
+</div>
+
 		
 <div align=center>
-	<h3> 🍀USE🍀 </h3>
+	<h3> 🍀 Top Languages 🍀 </h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secons127&layout=compact">
 	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=secons127&show_icons=true">
