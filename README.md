@@ -27,5 +27,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=secons127&show_icons=true">
 
 
+-
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=supjessica20)](https://solved.ac/supjessica20)
+프로필]([http://mazassumnida.wtf/api/v2/generate_badge?boj=supjessica20](https://www.acmicpc.net/user/supjessica20))](https://solved.ac/supjessica20)
+프로필]()](https://solved.ac/supjessica20)
