@@ -4,7 +4,7 @@
 
 
 
-STUDYING📚
+- STUDYING📚
 <div align="left">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -14,7 +14,7 @@ STUDYING📚
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
-
+- USE
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secons127&layout=compact"><br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=secons127&show_icons=true">
