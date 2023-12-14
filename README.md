@@ -42,7 +42,7 @@
 	<p> 🍀USE&VISITOR🍀 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secons127&layout=compact">
 	<br>
-<img src="https://github-readme-stats.vercel.app/api?username=secons&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=secons127&show_icons=true">
 <br>
 
 ![Secons's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=secons127)
