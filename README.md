@@ -60,4 +60,4 @@
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
-<<div align="center"> [![Background Image](C:\Users\vital\Desktop\higit.jpg)](https://github.com/secons127) </div>
+<<div align="center"> [![Background Image](https://i.pinimg.com/originals/c2/7b/51/c27b510ae2fea0425f6fde40e763b26e.jpg)](https://github.com/secons127) </div>
