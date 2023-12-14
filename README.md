@@ -52,7 +52,7 @@
   ----------------
 		
 <div align=center>
-	<h3> 🍀USE&VISITOR🍀 </h3>
+	<h3> 🍀USE🍀 </h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secons127&layout=compact">
 	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=secons127&show_icons=true">
