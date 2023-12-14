@@ -29,6 +29,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
+<div align=center>
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=f1f3f5&height=200&section=footer&fontSize=90)
 </div>
 <div align=center>
