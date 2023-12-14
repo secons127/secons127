@@ -40,7 +40,6 @@
 		<br>
 <div align=center>
 	<p> 🍀USE🍀 </p>
-	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secons127&layout=compact">
 	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=secons&show_icons=true">
