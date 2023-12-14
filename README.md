@@ -5,6 +5,7 @@
   </a>
 </div>
 
+<div align=center>
 *<h2>☄SECONS'S GITHUB🎞</h2>* 
 
  
