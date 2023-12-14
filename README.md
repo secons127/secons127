@@ -1,9 +1,4 @@
-<div align=center>
-	
-  <a href="https://github.com/secons127">
-    <img src="C:\Users\vital\Desktop\github.png" alt="Background Image" style="width: 1000px; height: 200px;">
-  </a>
-</div>
+
 
 <div align=center>
 	
