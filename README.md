@@ -62,6 +62,7 @@
 
 <div align="center">
   <a href="https://github.com/secons127">
-    <img src="https://i.pinimg.com/originals/c2/7b/51/c27b510ae2fea0425f6fde40e763b26e.jpg" alt="Background Image" style="width: 120%; height: 40;">
+    <img src="https://i.pinimg.com/originals/c2/7b/51/c27b510ae2fea0425f6fde40e763b26e.jpg" alt="Background Image" style="width: 300px; height: 200px;">
   </a>
 </div>
+
