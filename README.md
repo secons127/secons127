@@ -25,8 +25,8 @@
 - VISITOR <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=secons127&show_icons=true">
+<br>
 
-
--
+-Baekjoon
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={SECONS})](https://solved.ac/{SECONS})
