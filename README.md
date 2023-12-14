@@ -3,7 +3,7 @@
 <div align=center>
 	
 *<h2>☄SECONS'S GITHUB🎞</h2>* 
-~~
+
 <br>
 
  <div align=center>
@@ -13,12 +13,6 @@ Dongyang Mirae University of Department of Artificial Intelligence Software(2023
 Dongyang Mirae University club of MIT (2023~ )
 <br><br> 
 
-
-<div align="center">
-  <a href="https://github.com/secons127">
-    <img src="https://i.pinimg.com/564x/c6/f4/a5/c6f4a5779f08783edc4e7d4ce6338b5e.jpg" alt="Background Image" style="width: 1000px; height: 300px;">
-  </a>
-</div>
 
 
 <div align=center>
@@ -49,6 +43,13 @@ Dongyang Mirae University club of MIT (2023~ )
 	<img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
+
+
+<div align="center">
+  <a href="https://github.com/secons127">
+    <img src="https://i.pinimg.com/564x/c6/f4/a5/c6f4a5779f08783edc4e7d4ce6338b5e.jpg" alt="Background Image" style="width: 1000px; height: 300px;">
+  </a>
+</div>
 
 
 <div align=center>
