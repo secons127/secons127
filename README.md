@@ -29,9 +29,9 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <div align=center>
+<br>
 	<p>🎨 email 🎨</p>
 </div>
-<br>
 <div align=center>
 	<a href="supjessica20@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
