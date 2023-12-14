@@ -4,6 +4,8 @@
 	
 *<h2>☄SECONS'S GITHUB🎞</h2>* 
 
+<br>
+<br>
 
  <div align=center>
 <h3> 🛹PROFILE📜 </h3>
