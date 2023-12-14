@@ -1,14 +1,13 @@
 <div align=center>
 	
-*<h2>☄SECONS'S GITHUB🎞</h2>* 
-
-
-<div align=center>
-	
   <a href="https://github.com/secons127">
     <img src="https://i.pinimg.com/564x/c6/f4/a5/c6f4a5779f08783edc4e7d4ce6338b5e.jpg" alt="Background Image" style="width: 1000px; height: 200px;">
   </a>
 </div>
+
+<div align=center>
+	
+*<h2>☄SECONS'S GITHUB🎞</h2>* 
 
 
  
