@@ -41,7 +41,7 @@
 	<br>
 </div>
 
-  ---
+  ----------------
 		
 <div align=center>
 	<h3> 🍀USE&VISITOR🍀 </h3>
