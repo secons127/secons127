@@ -50,7 +50,7 @@ Dongyang Mirae University club of MIT (2023~ )
 
 <div align=center>
 <br>
-	<h3>🎨 Cantact 🎨</h3>
+	<h3>📞 Contact 📞</h3>
 </div>
 <div align=center>
 	<a href="supjessica20@gmail.com">
