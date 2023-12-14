@@ -2,6 +2,14 @@
    
    <img src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=270&section=header&text=HI,there?&fontSize=80" />
 
+
+<div align="center">
+  <a href="https://github.com/secons127">
+    <img src="https://i.pinimg.com/564x/c6/f4/a5/c6f4a5779f08783edc4e7d4ce6338b5e.jpg" alt="Background Image" style="width: 1400px; height: 250px;">
+  </a>
+</div>
+
+
 <div align=center>
 	
 *<h2>☄SECONS'S GITHUB🎞</h2>* 
