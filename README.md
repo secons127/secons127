@@ -21,6 +21,7 @@
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
+<br>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
@@ -32,6 +33,7 @@
 <div align=center>
 	<p>🎨 email 🎨</p>
 </div>
+<br>
 <div align=center>
 	<a href="supjessica20@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
