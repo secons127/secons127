@@ -51,7 +51,9 @@
 <br>
 
 ![Secons's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=secons127)
--------------------
+
+-----------------
+
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 
