@@ -3,7 +3,7 @@
 <div align=center>
 	
 *<h2>☄SECONS'S GITHUB🎞</h2>* 
-
+~~
 <br>
 
  <div align=center>
