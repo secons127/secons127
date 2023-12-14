@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h3>🛠 Tools 🛠</h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -30,7 +30,7 @@
 </div>
 <div align=center>
 <br>
-	<p>🎨 email 🎨</p>
+	<h3>🎨 email 🎨</h3>
 </div>
 <div align=center>
 	<a href="supjessica20@gmail.com">
@@ -39,7 +39,7 @@
 </div>
 		<br>
 <div align=center>
-	<p> 🍀USE&VISITOR🍀 </p>
+	<h3> 🍀USE&VISITOR🍀 </h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secons127&layout=compact">
 	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=secons127&show_icons=true">
