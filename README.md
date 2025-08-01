@@ -10,6 +10,7 @@
   </a>
 </div>
 
+---
 
 <div align=center>
 	
@@ -74,8 +75,8 @@ Dongyang Mirae University of Department of Artificial Intelligence Software(2023
 	<br>
 </div>
 
-  <Br>
-  <br>
+---
+
   
 <div align="center">
   <a href="https://github.com/secons127">
@@ -83,34 +84,31 @@ Dongyang Mirae University of Department of Artificial Intelligence Software(2023
   </a>
 </div>
 
-		
+---		
 <div align=center>
 	<h3> 🍀 Top Languages 🍀 </h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secons127&layout=compact">
 	<br>
-<img src="https://github-readme-stats.vercel.app/api?username=secons127&show_icons=true">
-<br>
+	<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=secons127&show_icons=true"><br>
+<br><br>
 
 ![Secons's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=secons127)
 
------------------
 
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={supjessica20})](https://www.acmicpc.net/user/supjessica20)
-</div>
-<br>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 ---
-<br>
+
 
 ![secons Graph](https://github-readme-activity-graph.vercel.app/graph?username=secons127&custom_title=secons%20GitHub%20Activity%20Graph&bg_color=D3D3D3&color=808080&line=000000&point=000000&area_color=494057&title_color=000000&area=true)
 
-<br>
+
+
+---
 
 <div align="center">
   <a href="https://github.com/secons127">
