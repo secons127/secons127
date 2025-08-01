@@ -37,9 +37,6 @@ Dongyang Mirae University of Department of Artificial Intelligence Software(2023
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
- 	<img src="https://img.shields.io/badge/-Blueprint-137CBD?style=flat&logo=blueprint&logoColor=white"/>
-	
-	
 	
 </div>
 <br>
@@ -55,10 +52,13 @@ Dongyang Mirae University of Department of Artificial Intelligence Software(2023
 	<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=VisualStudioCode&logoColor=white" />
 <br>
  	<img src="https://img.shields.io/badge/-Unreal Engine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Blueprint-137CBD?style=flat&logo=blueprint&logoColor=white"/>
 	<img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
  	<img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+	<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/>
+	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
 	
