@@ -31,6 +31,7 @@ Dongyang Mirae University of Department of Artificial Intelligence Software(2023
 </div> 
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+	<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
 	<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=java&logoColor=white" />
@@ -61,7 +62,7 @@ Dongyang Mirae University of Department of Artificial Intelligence Software(2023
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
-	
+	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">	
 
 </div>
 
