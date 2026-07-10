@@ -89,18 +89,28 @@ Dongyang Mirae University of Department of Artificial Intelligence Software(2023
 </div>
 
 ---		
-<div align=center>
-	<h3> 🍀 Top Languages 🍀 </h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secons127&layout=compact">
-	<br>
-	<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=secons127&show_icons=true"><br>
-<br><br>
+<div align="center">
+  <h3>🍀 Top Languages 🍀</h3>
 
-![Secons's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=secons127)
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=secons127&layout=compact"
+    alt="Top Languages"
+  />
 
+  <br><br>
 
-<br>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=secons127&show_icons=true"
+    alt="GitHub Stats"
+  />
+
+  <br><br>
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=secons127"
+    alt="GitHub Activity Graph"
+  />
+</div>
 
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
