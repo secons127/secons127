@@ -19,9 +19,11 @@
 <br>
 
  <div align=center>
-<h3> 🛹PROFILE📜 </h3>
-Deokwon girls high school( 2020~2022 ) <br>
-Dongyang Mirae University of Department of Artificial Intelligence Software(2023~2025)
+<h3> 🛹INTRO📜 </h3>
+재미있어 보이는 걸 만드는 AI 서비스 개발자입니다.
+
+사용자의 필요와 서비스의 목적을 고민하며,
+기술을 통해 경험을 만들어갑니다.
 
 
 
