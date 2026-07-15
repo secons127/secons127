@@ -20,7 +20,7 @@
 
  <div align=center>
 <h3> 🛹PROFILE📜 </h3>
-Deokwon girls high school of Liberal arts( 2020~2022 ) <br>
+Deokwon girls high school( 2020~2022 ) <br>
 Dongyang Mirae University of Department of Artificial Intelligence Software(2023~2025)
 
 
