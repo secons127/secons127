@@ -95,20 +95,44 @@
 
 ---		
 <div align="center">
-  <h3>🍀 Top Languages 🍀</h3>
+  <h3>🍀 Top Languages & GitAnimals 🍀</h3>
 
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=secons127&layout=compact"
-    alt="Top Languages"
-  />
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=secons127&layout=compact"
+          width="330"
+          alt="Top Languages"
+        />
+      </td>
 
-  <br><br>
+      <td align="center" valign="middle">
+        <a href="https://www.gitanimals.org/">
+          <img
+            src="https://render.gitanimals.org/farms/secons127"
+            width="430"
+            alt="GitAnimals Farm"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
 
   <img
     src="https://github-stats-extended.vercel.app/api?username=secons127&show_icons=true"
     alt="GitHub Stats"
   />
 
+  <br><br>
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=secons127"
+    alt="GitHub Activity Graph"
+  />
+</div>
   <br><br>
 
   <img
