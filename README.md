@@ -87,14 +87,18 @@
 
 ---
 
-<br>
-
 <h3>🍀 GitHub Stats 🍀</h3>
 
-<p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=secons127&layout=compact" width="42%" alt="Top Languages">&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=secons127&utm_content=farm"><img src="https://render.gitanimals.org/farms/secons127" width="42%" alt="GitAnimals Farm"></a></p>
-
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=secons127&layout=compact" width="40%" alt="Top Languages">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=secons127&utm_content=farm">
+<img src="https://render.gitanimals.org/farms/secons127?v=20260715" width="40%" alt="GitAnimals Farm">
+</a>
+</p>
 
 <br>
+
 
 <img src="https://github-stats-extended.vercel.app/api?username=secons127&show_icons=true" width="55%" alt="GitHub Stats">
 
