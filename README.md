@@ -149,19 +149,11 @@
 
 <br>
 
-<img
-  src="https://github-stats-extended.vercel.app/api?username=secons127&show_icons=true"
-  width="55%"
-  alt="GitHub Stats"
->
+<img src="https://github-stats-extended.vercel.app/api?username=secons127&show_icons=true" width="55%" alt="GitHub Stats">
 
 <br><br>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=secons127&custom_title=Secons%20GitHub%20Activity%20Graph&bg_color=D3D3D3&color=808080&line=000000&point=000000&area_color=494057&title_color=000000&area=true"
-  width="100%"
-  alt="Secons GitHub Activity Graph"
->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=secons127&custom_title=Secons%20GitHub%20Activity%20Graph&bg_color=D3D3D3&color=808080&line=000000&point=000000&area_color=494057&title_color=000000&area=true" width="100%" alt="Secons GitHub Activity Graph">
 
 <br>
 
