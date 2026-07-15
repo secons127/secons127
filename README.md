@@ -91,8 +91,6 @@
 
 <h3>🍀 GitHub Stats 🍀</h3>
 
-<h3>🍀 GitHub Stats 🍀</h3>
-
 <p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=secons127&layout=compact" width="42%" alt="Top Languages">&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=secons127&utm_content=farm"><img src="https://render.gitanimals.org/farms/secons127" width="42%" alt="GitAnimals Farm"></a></p>
 
 
