@@ -92,7 +92,7 @@
 <h3>🍀 GitHub Stats 🍀</h3>
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=secons127&layout=compact" width="48%" alt="Top Languages"><a href="https://www.gitanimals.org/"><img src="https://render.gitanimals.org/farms/secons127" width="48%" alt="GitAnimals Farm"></a>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=secons127&layout=compact" width="42%" alt="Top Languages">&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gitanimals.org/"><img src="https://render.gitanimals.org/farms/secons127" width="42%" alt="GitAnimals Farm"></a>
 </p>
 
 <br>
