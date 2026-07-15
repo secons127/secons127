@@ -140,7 +140,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=secons127&utm_content=farm">
     <img
-      src="https://render.gitanimals.org/farms/secons127?v=20260715"
+      src="https://render.gitanimals.org/farms/secons127?v=2026071"
       width="42%"
       alt="GitAnimals Farm"
     >
